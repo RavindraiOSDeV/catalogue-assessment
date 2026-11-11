@@ -49,7 +49,7 @@ The default `EMAIL_PROVIDER=console` is intentionally suitable for reviewers wit
 - `POST /api/enquiries` — validates and sends/logs enquiry
 
 ## Design notes
-See `DECISIONS.md` for assumptions and trade-offs, and `AI_USAGE.md` for the AI-use record to complete honestly before submission.
+See `DECISIONS.md` for assumptions and trade-offs, and `AI_USAGE.md` for the AI-use record.
 
 Fake Store API is an external demo dependency, so catalogue endpoints need internet access. Product images and typography are loaded from public sources. The product source can be replaced by implementing the `ProductDataSource` interface and swapping the repository adapter.
 
