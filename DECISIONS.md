@@ -30,9 +30,10 @@
 
 # Time Spent
 
-Architecture & Planning - 15 min 
+Architecture & Planning - 30 min
 Frontend and Backend implementation - 20 min
-Review code and build verification - 30 min
+Review code and build verification - 45 min
 Testing and security - 30 min
 Build and final review - 15 min
 Documentation - 30 min
+Push and PR process - 30 min
